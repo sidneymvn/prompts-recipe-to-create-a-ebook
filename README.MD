@@ -38,17 +38,21 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | prompt                                                                                                                                                                                                                                                                     |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título para um ebook sobre o tema de "como iniciar em investimentos". o nicho é educação financeira. subnicho é reserva de emergência. o título deve ser épico, curto, ter uma temática de "Benjamin Graham". Liste 5 variações de títulos.                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título para um ebook sobre o tema de "como iniciar em investimentos". o nicho é educação financeira. subnicho é reserva de emergência. o título deve ser épico, curto, ter uma temática de "Benjamin Graham". Liste 5 variações de títulos. |
+|capa | cite 5 ideias de capa para este ebook |
+|conteúdo | aça um texto para ebook, com foco em "como criar sua reserva de emergência", listando 3 passos simples {REGRAS} > explique sempre de uma maneira simples > deixe o texto enxuto > sempre traga exemplos com contextos reais > sempre deixe um título sugestivo por tópico| 
 
 
 DALL-E：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | crie uma imagem no seguinte estilo: Fundo liso em tons pastéis (azul ou verde claro) para uma aparência acessível. Ícones financeiros como moedas, notas, cofrinhos e gráficos organizados em mosaico. O título grande e central com um subtítulo explicativo.|
+| ilustração | crie a imagem de um porquinho-cofrinho, bem bonitinho
+| ilustração | crie a imagem de um porquinho inteligente
+| ilustração | crie a imagem de um porquinho-cofrinho rico
 
 ## ✨ Features
 
