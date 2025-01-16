@@ -40,9 +40,9 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                     |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título para um ebook sobre o tema de "como iniciar em investimentos". o nicho é educação financeira. subnicho é reserva de emergência. o título deve ser épico, curto, ter uma temática de "Benjamin Graham". Liste 5 variações de títulos. |
+|  título  | crie um título para um ebook sobre o tema de "como iniciar em investimentos". o nicho é educação financeira. subnicho é reserva de emergência. o título deve ser épico, curto, ter uma temática de "Benjamin Graham". Liste 5 variações de títulos. |
 |capa | cite 5 ideias de capa para este ebook |
-|conteúdo | aça um texto para ebook, com foco em "como criar sua reserva de emergência", listando 3 passos simples {REGRAS} > explique sempre de uma maneira simples > deixe o texto enxuto > sempre traga exemplos com contextos reais > sempre deixe um título sugestivo por tópico| 
+|conteúdo | crie um texto para ebook, com foco em "como criar sua reserva de emergência", listando 3 passos simples {REGRAS} > explique sempre de uma maneira simples > deixe o texto enxuto > sempre traga exemplos com contextos reais > sempre deixe um título sugestivo por tópico| 
 
 
 DALL-E：
